@@ -6,7 +6,7 @@ WordPress plugin for converting Blend project URLs into embedded players.
 
 # How to use
 
-- Download the [ZIP](url=https://github.com/Montoya/Blend-Shortcode/archive/master.zip)
+- Download the [ZIP](https://github.com/Montoya/Blend-Shortcode/archive/master.zip)
 - Unzip / extract the folder on your computer
 - Upload the folder to your Wordpress plugins directory `wp-content/plugins/`
 - Visit the plugins menu in your Wordpress dashboard and click _Activate_
@@ -31,4 +31,4 @@ You can also set a default width and height to be used for all shortcodes. Just 
 
 # Support
 
-If you run into any issues, feel free to reach out to us: [support@blend.io](url=mailto:support@blend.io)
+If you run into any issues, feel free to reach out to us: [support@blend.io](mailto:support@blend.io)
