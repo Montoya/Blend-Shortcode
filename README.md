@@ -9,7 +9,7 @@ WordPress plugin for converting Blend project URLs into embedded players.
 - Download the [ZIP](url=https://github.com/Montoya/Blend-Shortcode/archive/master.zip)
 - Unzip / extract the folder on your computer
 - Upload the folder to your Wordpress plugins directory `wp-content/plugins/`
-- Visit the plugins menu in your Wordpress dashboard and click *Activate*
+- Visit the plugins menu in your Wordpress dashboard and click _Activate_
 
 Now you can enter the following into any post: 
 
@@ -26,6 +26,8 @@ You can customize the width of the embed in the shortcode. The widget will fill 
 ```
 [blend width="500"]https://blend.io/project/54611406124aec59070070c4[/blend]
 ```
+
+You can also set a default width and height to be used for all shortcodes. Just visit the settings page for the plugin (Settings > Blend)
 
 # Support
 
