@@ -4,7 +4,7 @@ Blend-Shortcode
 WordPress plugin for converting Blend project URLs into embedded players.
 
 
-# How to use
+## How to use
 
 - Download the [ZIP](https://github.com/Montoya/Blend-Shortcode/archive/master.zip)
 - Unzip / extract the folder on your computer
@@ -19,7 +19,7 @@ Now you can enter the following into any post:
 
 And it will be converted to an embedded player automatically! 
 
-# Optional parameters
+## Optional parameters
 
 You can customize the width of the embed in the shortcode. The widget will fill the width of your post by default, but if you need to give it a fixed with, just add the parameter `width` to the shortcode like this: 
 
@@ -29,6 +29,6 @@ You can customize the width of the embed in the shortcode. The widget will fill 
 
 You can also set a default width and height to be used for all shortcodes. Just visit the settings page for the plugin (Settings > Blend)
 
-# Support
+## Support
 
 If you run into any issues, feel free to reach out to us: [support@blend.io](mailto:support@blend.io)
