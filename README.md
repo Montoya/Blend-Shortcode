@@ -1,7 +1,7 @@
 Blend-Shortcode
 ===============
 
-WordPress plugin for converting Blend project URLs into embedded players.
+WordPress plugin for converting Blend.io project URLs into embedded players.
 
 
 ## How to use
@@ -28,7 +28,3 @@ You can customize the width of the embed in the shortcode. The widget will fill 
 ```
 
 You can also set a default width and height to be used for all shortcodes. Just visit the settings page for the plugin (Settings > Blend)
-
-## Support
-
-If you run into any issues, feel free to reach out to us: [support@blend.io](mailto:support@blend.io)
